@@ -1,1 +1,11 @@
+# Program To Print Given Data
+#include <iostream>                   //header file
 
+using namespace std;                  //namespaces 
+
+int main()                           //a FUNCTION which is used in every cpp problem
+{
+    cout<<"I'm Learning CPP"<<endl;    //print the given data as output
+
+    return 0;                          //ends the main function
+}

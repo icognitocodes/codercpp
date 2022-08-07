@@ -1,1 +1,21 @@
+Cpp supports classes and objects. which makes it diiferent.
+and it is OOPL.
+
+//   This is single line comment.
+/*  mutli line 
+     comment   */   This is multi line comment.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+VARIABLES
+
+int -> stores integer values
+float -> stores float values
+char -> stores character values    in single inverted comma
+bool -> stores only true and false
+string-> stores text like "Github" in double inverted comma
+double-> stores float values which may positive or negative with decimals
+
+variables are declared as 
+type variableName = value;
+
 

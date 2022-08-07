@@ -9,3 +9,64 @@ int main()                           //a FUNCTION which is used in every cpp pro
 
     return 0;                          //ends the main function
 }
+
+In This endl breaks the line and prints next data on new line.
+------------------------------------------------------------------------------------------------------------------------------------------------
+Declare various variables by assigning them values and print them 
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int num=1;
+    char name='A';
+    double dnum=99.9999;
+    float fnum=99.98;
+    bool ok=true;
+    string text="This Is New Era Of Technology";
+    
+    cout<<"Integer is:"<<num<<endl;
+    cout<<"Character is:"<<name<<endl;
+    cout<<"Double is:"<<dnum<<endl;
+    cout<<"Float value is:"<<fnum<<endl;
+    cout<<"Boolean Value is:"<<ok<<endl;
+    cout<<"String text is:"<<text<<endl;
+    
+    return 0;
+}
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
